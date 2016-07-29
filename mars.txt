@@ -5,4 +5,10 @@ Hell yeah, red rocks bitches!
 RED ROCKS!!!!!!!!
 This is great! We should do this all of the time
 Philosophical question: can one get high off of red rocks?
+<<<<<<< HEAD
 When can we go to red rocks?
+=======
+
+
+Yeah Bitch!
+>>>>>>> 59ff2fbbd33c011e7530327824311375b16eef9b
